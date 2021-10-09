@@ -40,8 +40,10 @@ for item in $ls_cmd_new; do
 
         sudo cp -r $(pwd)"/DeviceSupport/$Xcode_Device_Support_Dir" "$Device_Support_Path"
 
-        echo "cp $Xcode_Device_Support_Dir $Device_Support_Path"
+        echo "cp $Xcode_Device_Support_Dir -> $Device_Support_Path"
 
     fi
 
 done
+
+echo "Install Device Support Done!"
