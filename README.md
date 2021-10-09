@@ -14,7 +14,6 @@ ilongge@ilonggedeMBP XcodeDeviceSupport % ./install_device_support.sh
  ====开始拉取仓库最新DeviceSupport==== 
 Already up to date.
 Password:
-su: Sorry
  ====获取当前默认的Xcode==== 
 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
 Password:
